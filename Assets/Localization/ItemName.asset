@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ItemName
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 3bb3ae79c0d4f2844b9eac6d26c44870, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 177dc25b7816c5149b5a931d927a5ba2, type: 2}
+  - {fileID: 11400000, guid: c159b731336ff3541bbc8378bd1d3860, type: 2}
+  m_Extensions:
+  - rid: 5594193515978162178
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds:
+    - rid: 5594193515978162178
+      type: {class: GoogleSheetsExtension, ns: UnityEditor.Localization.Plugins.Google, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_SheetsServiceProvider: {fileID: 11400000, guid: 2a714bfeed68bdf409e51e0d75187498, type: 2}
+        m_SpreadsheetId: 1d_IZi9CGVek-qMkTG14QufpwmOHA5qnMtaQDqh9oaA4
+        m_SheetId: 1324274948
+        m_Columns:
+        - rid: 5594193515978162180
+        - rid: 5594193515978162181
+        - rid: 5594193515978162182
+        m_RemoveMissingPulledKeys: 1
+    - rid: 5594193515978162180
+      type: {class: KeyColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: A
+    - rid: 5594193515978162181
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: B
+        m_LocaleIdentifier:
+          m_Code: en
+        m_IncludeComments: 0
+    - rid: 5594193515978162182
+      type: {class: LocaleColumn, ns: UnityEditor.Localization.Plugins.Google.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_Column: C
+        m_LocaleIdentifier:
+          m_Code: vi-VN
+        m_IncludeComments: 0

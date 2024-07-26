@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: test2
+  m_EditorClassIdentifier: 
+  m_GroupName: test2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4e205a2e281d5514ca29596482777544
+  m_SerializeEntries:
+  - m_GUID: a7ce18720e660714eb4e1ebb4f695aaf
+    m_Address: 01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff2590ee59ae4af43b1515154d956360
+    m_Address: 02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b5cd9e29cf93974687743ad1db1d8d9
+    m_Address: 03
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0459d008086cb79448b9f43e4e670c76
+    m_Address: 04
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ee8eed6e9fd2934cb2864482e100913
+    m_Address: Sword.11.Icon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66515ba657c52bf44bd3201029e5f116, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c514073417cf3934997a8edc084f2e65, type: 2}
+    - {fileID: 11400000, guid: 2f7d720b03003e947a8555038ff08a4d, type: 2}
